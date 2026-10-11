@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application that predicts whether a Pokémon is **Legendary** or **Normal** based entirely on its base battle stats. This project covers the entire data science pipeline—from exploratory data analysis (EDA) and data wrangling to model training, evaluation, and cloud deployment.
 
-🔗 **Live Demo:**
+🔗 **Live Demo:** https://zncyqtfbhfx7xj68tudije.streamlit.app/
 
 ---
 
